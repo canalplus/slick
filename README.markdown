@@ -137,6 +137,10 @@ $slick-next-character | string | '\2192' | Unicode character code for the next a
 $slick-dot-character | string | '\2022' | Unicode character code for the navigation dot icon
 $slick-dot-size | pixels | 6px | Size of the navigation dots
 
+#### Canal+ Addons
+
+- Next slides preloading
+
 
 #### Dependencies
 
